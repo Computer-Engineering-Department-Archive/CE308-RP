@@ -1,2 +1,2 @@
-# CE308-RTP
+# CE308-RP
 Research and Technical Presentation
